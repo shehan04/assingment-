@@ -1,0 +1,6 @@
+G:\Assingment_J-e_tech\Segment_5\DataLayer\bin\Debug\DataLayer.dll.config
+G:\Assingment_J-e_tech\Segment_5\DataLayer\bin\Debug\DataLayer.dll
+G:\Assingment_J-e_tech\Segment_5\DataLayer\bin\Debug\DataLayer.pdb
+G:\Assingment_J-e_tech\Segment_5\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\Assingment_J-e_tech\Segment_5\DataLayer\obj\Debug\DataLayer.dll
+G:\Assingment_J-e_tech\Segment_5\DataLayer\obj\Debug\DataLayer.pdb

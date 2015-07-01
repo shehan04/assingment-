@@ -1,0 +1,5 @@
+G:\Assingment_J-e_tech\Segment 4\Segment 4\bin\Debug\Segment 4.exe.config
+G:\Assingment_J-e_tech\Segment 4\Segment 4\bin\Debug\Segment 4.exe
+G:\Assingment_J-e_tech\Segment 4\Segment 4\bin\Debug\Segment 4.pdb
+G:\Assingment_J-e_tech\Segment 4\Segment 4\obj\Debug\Segment 4.exe
+G:\Assingment_J-e_tech\Segment 4\Segment 4\obj\Debug\Segment 4.pdb

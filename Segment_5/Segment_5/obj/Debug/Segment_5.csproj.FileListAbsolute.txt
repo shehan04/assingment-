@@ -1,0 +1,15 @@
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\Segment_5.exe
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\Segment_5.pdb
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\BusinessLogicLayer.dll
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\DataLayer.dll
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\BusinessLogicLayer.pdb
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\DataLayer.pdb
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.csprojResolveAssemblyReference.cache
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.main_menu.resources
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.Properties.Resources.resources
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.student_details.resources
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.Student_registration.resources
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.csproj.GenerateResource.Cache
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.exe
+G:\Assingment_J-e_tech\Segment_5\Segment_5\obj\Debug\Segment_5.pdb
+G:\Assingment_J-e_tech\Segment_5\Segment_5\bin\Debug\Segment_5.exe.config

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<script>
+start: while(true) {
+  var value = prompt("Please enter number between 1 and 100");
+  if(value>100 )
+  {
+	  alert("Enter Between 1 to 100")
+	  continue start;
+  }
+  else
+  {
+  if(value!= 42) 
+  {
+  document.writeln("InCorrect"+"<br>");
+  continue start;
+  }
+  else
+  {
+document.writeln("Correct"+"<br>")
+  break;
+  }
+  }
+}
+</script>
+</body>
+</html>

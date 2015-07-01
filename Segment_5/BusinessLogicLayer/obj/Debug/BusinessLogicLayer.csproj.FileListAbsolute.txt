@@ -1,0 +1,7 @@
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\bin\Debug\DataLayer.dll
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\bin\Debug\DataLayer.pdb
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\Assingment_J-e_tech\Segment_5\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

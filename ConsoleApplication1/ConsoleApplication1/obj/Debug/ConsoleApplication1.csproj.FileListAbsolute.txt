@@ -1,0 +1,5 @@
+G:\Assingment_J-e_tech\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Assingment_J-e_tech\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Assingment_J-e_tech\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Assingment_J-e_tech\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Assingment_J-e_tech\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
